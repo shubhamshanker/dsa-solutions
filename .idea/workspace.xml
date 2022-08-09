@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af199494-d5b4-4174-bb78-d23e9e1a96cc" name="Changes" comment="" />
+    <list default="true" id="af199494-d5b4-4174-bb78-d23e9e1a96cc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dsa-solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dsa-solutions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dsa-solutions/L5_LPS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dsa-solutions/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dsa-solutions/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/L589_TreePreOrderTransversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/L589_TreePreOrderTransversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/L5_LPS.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/L5_LPS.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,10 +52,16 @@
       </RecentBranches>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-11.0.14.1/Contents/Home/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CHxzkTBvMk0CM1IhLYlulKz1fl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="flattenPackages" value="true" />
@@ -60,8 +80,35 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.30724972" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.InsertionSort">
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solutions.InsertionSort" />
+      <module name="dsa-solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L5_LPS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solutions.L5_LPS" />
+      <module name="dsa-solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="L5_LPS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L5_LPS" />
       <module name="dsa-solutions" />
@@ -71,7 +118,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.L5_LPS" />
+        <item itemvalue="Application.L5_LPS (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -85,6 +134,15 @@
       <updated>1658473579780</updated>
       <workItem from="1658473582975" duration="1278000" />
       <workItem from="1658476273395" duration="405000" />
+      <workItem from="1658566251780" duration="933000" />
+      <workItem from="1658653665312" duration="597000" />
+      <workItem from="1658662025462" duration="3657000" />
+      <workItem from="1659161480513" duration="3558000" />
+      <workItem from="1659459238772" duration="807000" />
+      <workItem from="1659606918722" duration="2963000" />
+      <workItem from="1659858316983" duration="493000" />
+      <workItem from="1659888124121" duration="1153000" />
+      <workItem from="1660028370883" duration="245000" />
     </task>
     <servers />
   </component>

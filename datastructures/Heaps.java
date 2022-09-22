@@ -10,45 +10,45 @@ public class Heaps {
 
   public static void main(String[] args) {
     // -1 implies heap
-    insertElement(5);
+    //insertElement(5);
 
 
 
 
   }
-
-
-  private static void heapify(){
-
-
-  }
-
-  private static void createHeap(){
-
-  }
-
-  private void insertElement(int element){
-        this.mylist.add(element);
-  }
-
-  private static void removeTop(){
-
-
-  }
-
-
-  // min = 0, max = 1
-  private static boolean checkIfValidHeap(int minmax){
-
-      if(minmax == 0)
-      {
-          //min heap
-      }
-      else
-      {
-          //max heap
-      }
-  }
+//
+//
+//  private static void heapify(){
+//
+//
+//  }
+//
+//  private static void createHeap(){
+//
+//  }
+//
+//  private void insertElement(int element){
+//        this.mylist.add(element);
+//  }
+//
+//  private static void removeTop(){
+//
+//
+//  }
+//
+//
+//  // min = 0, max = 1
+//  private static boolean checkIfValidHeap(int minmax){
+//
+//      if(minmax == 0)
+//      {
+//          //min heap
+//      }
+//      else
+//      {
+//          //max heap
+//      }
+//  }
 
 
 }
